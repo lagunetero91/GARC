@@ -1,0 +1,3 @@
+show spanning-tree
+
+spanning-tree ( en configure terminal hp)
